@@ -1,0 +1,15 @@
+{
+    "prefix": "!",
+    "game": "Carlo-bot",
+    "name": "Carlo-bot",
+    "token": "NjM5MTkwMDU2MDU3NDM4MjE5.XbnqJw.hhXx1sDbl4xj5ykzH68YOfu7slA",
+    "defaultRole": "joueur",
+    "defaultChannel": "general",
+    "joinMessage": "Bienvenue sur le discord, installe toi tranquillement ! :wink: :wink:",
+    "discordName": "Carlo-bot > all",
+    "adminRoleName": "Carlo-bot > all",
+    "channelName": "Carlo-bot > all",
+    "roleName": "Carlo-bot > all",
+    "sendMessage": "Carlo-bot > all",
+    "ChangeUsername": "Carlo-bot > all"
+}
