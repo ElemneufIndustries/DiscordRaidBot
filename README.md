@@ -21,6 +21,8 @@
     "roleName": = nom des roles crées.
     "sendMessage": = message spam par le bot.
     "ChangeUsername": = change le nom de tous les membres.
+    
+    Vidéo présentation : https://www.youtube.com/watch?v=ZZL9xjVT4Jk
  
  Copyright © Elemneuf Industries, Tous droits réservés.
 
